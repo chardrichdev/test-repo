@@ -10,8 +10,7 @@ export default function AboutComponent(){
 					<Card.Body>
 						<Card.Title>About Me</Card.Title>
 						<Card.Text>
-							<p>Hello Its ME!
-							</p>
+							<p>Hola Its Me!</p>
 						</Card.Text>
 						<Button variant = "success">Go Somewhere</Button>
 					</Card.Body>
